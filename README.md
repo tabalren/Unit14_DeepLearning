@@ -21,7 +21,7 @@ The following plot illustrates the real vs. predicted values using a 2-day windo
 
 ### LSTM RNN Model Using Fear and Greed Index Values
 
-We built and trained an LSTM RNN model using the FNG indicators to predict the closing price.  Refer to lstm_stock_predictor_fng.ipynb file for detailed code. You will see from the model evaluation results and below plot that the results were not ideal. The loss rate % was much high than our former model.
+We built and trained an LSTM RNN model using the FNG indicators to predict the closing price.  Refer to lstm_stock_predictor_fng.ipynb file for detailed code. You will see from the model evaluation results and below plot that the results were not ideal. The loss rate % was much higher than our former model.
 
 ![](Images/fng.jpeg)
 
